@@ -3,4 +3,6 @@
 
 Learning Objectives
 
-*By Justin Rice*
+*By Justin R*
+
+*Updated by Inoculant*
